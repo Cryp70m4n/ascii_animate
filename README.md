@@ -1,6 +1,6 @@
-# ascii_animate
+# ASCII ANIMATE
 
-# Convert any video/gif into ascii animation in your terminal
+# A tool to convert any video/gif into ascii animation in your terminal
 
 # INSTALLATION
 Git clone the repo (git clone https://www.github.com/cryp70m4n/ascii_animate) <br />
@@ -8,7 +8,7 @@ cd ascii_animate <br />
 sh installer.sh
 
 
-# Special thanks to https://github.com/vanybhops he made big part of code I just used to upgrade it a bit
+# Special thanks to https://github.com/vanybhops he made a big part of code but never released it so I just decided to upgrade it a bit and release it
  <br />
 
  <br />
