@@ -1,6 +1,6 @@
 # ascii_animate
 
-# _ Convert any video/gif into ascii animation in your terminal
+# Convert any video/gif into ascii animation in your terminal
 
 
 
