@@ -8,6 +8,7 @@
  - sh installer.sh
 
 
+# SPECIAL THANKS
  - *Special thanks to https://github.com/vanybhops he made a big part of code but never released it so I just decided to upgrade it a bit and release it*
  <br />
 
